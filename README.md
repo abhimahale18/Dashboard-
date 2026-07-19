@@ -75,6 +75,6 @@ This project showcases an interactive **Online Store Sales Dashboard** developed
 
 ## 👨‍💻 Author
 
-**Abhishek Mahale--
+**Abhishek Mahale**
 
 ## ⭐ If you found this project useful, don't forget to star this repository!
